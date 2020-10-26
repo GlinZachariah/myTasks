@@ -4,10 +4,11 @@
 
 Note Taking Angular Application.
 
-To-do Checklist 
-[] Set Up Angular Application
-[] Create module for Checklists
-[] Create module for Notes
-[] Complete Checklists Module
+### To-do Checklist
+
+- [x] Set Up Angular Application
+- [] Create module for Checklists
+- [] Create module for Notes
+- [] Complete Checklists Module
 
 
