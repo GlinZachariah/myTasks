@@ -10,5 +10,6 @@ Note Taking Angular Application.
 - [x] Added Angular Material
 - [x] Added Menubar
 - [ ] Add siveNav items
+- [x] Add Dashboard
 
 

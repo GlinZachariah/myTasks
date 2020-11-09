@@ -10,7 +10,6 @@ export class AppComponent {
   title = 'myTasks';
 
   toggleMenu(menu:MatSidenav){
-    console.log("Toggle menu");
     menu.toggle();
 
   }
