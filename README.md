@@ -1,6 +1,6 @@
 # myTasks
 
-![In Progress](https://img.shields.io/badge/status-In%20Progress-yellow)
+![In Progress](https://img.shields.io/badge/status-In%20halted-red)
 
 Note Taking Angular Application.
 
